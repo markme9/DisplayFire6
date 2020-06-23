@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>395766411310-f4laf9j9eecrms74s7h42kuqtpv3mnu0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.395766411310-f4laf9j9eecrms74s7h42kuqtpv3mnu0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYBt9K-dbeXZo1RAKIsswpDV85dl40wmw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>395766411310</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mark.DisplayFire6</string>
+	<key>PROJECT_ID</key>
+	<string>displayfire6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>displayfire6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:395766411310:ios:1023dd9eb78d080d0a6fbf</string>
+	<key>DATABASE_URL</key>
+	<string>https://displayfire6.firebaseio.com</string>
+</dict>
+</plist>
